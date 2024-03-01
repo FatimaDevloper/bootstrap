@@ -1,32 +1,94 @@
-.btn{
-    color: white;
-    background-color: rgba(0, 0, 255, 0.699);
-    text-decoration: none;
-    padding: 5px;
+#mainbox1{
+    height: 450px;
+    max-width: 380px;
+    background-color: rgba(15, 99, 88, 0.712);
+    margin: auto;
+    margin-top: 10%;
 }
-.card-title{
-    font-size: larger;
+#name{
+    position: relative;
+    top: 130px;
+    font-size: 35px;
+    color: rgb(145, 17, 96);
+    left: 120px;
+   
+}
+#email{
+    position: relative;
+    top: 160px;
+    right: 10%;
+    font-size:23px;
+    color: white;
+    
+}
+#box{
+    position:relative;
+    top: 170px;
+    color: white;
+    font-size: 28px;
+    left: 20%;
+}
+footer{
+  position: relative;
+  top: 310px;
+  right: 0.1%;
+  color: white;
+  background-color:rgba(146, 10, 94, 0.815);
+  padding: 25px;
+  text-align: center;
+  
+   }
+#img{
+    height:30%;
+    max-width:30%;
+    bottom:48%;
+    position: relative;
+    left: 35%;
+    border-radius: 50%;
+    border: 5px solid rgba(146, 10, 94, 0.815) ;
+   }
+#cat{height:8%;
+    max-width:8%;
+    position: relative;
+    top: 80px;
+    right: 100px;
+    border-radius: 50%;
+    border: 5px solid rgba(146, 10, 94, 0.815)
 
 }
-.card1{
-    position: absolute;
-    margin-top: 15px;
-   
-    
+#twitter{
+    height:8%;
+    max-width:8%;
+    position: relative;
+    top: 78px;
+   right: 55px;
+    border-radius: 50%;
+    border: 5px solid rgba(146, 10, 94, 0.815)
 }
-.card2{
-    position:absolute;
-    margin-left: 35%;
-    /* bottom: 390px; */
-    margin-top: 15px;
-    
-    
+#yt{
+    height:8%;
+    max-width:8%;
+    position: relative;
+    top: 78px;
+    right: 5px;
+    border-radius: 50%;
+    border: 5px solid rgba(146, 10, 94, 0.815);
 }
-.card3{
-    position: absolute;
-    margin-left: 70%;
-    /* bottom: 780px; */
-    margin-top: 20px;
-   
-    
+#in{
+    height:8%;
+    max-width:8%;
+    position: relative;
+   top: 78px;
+   left:40px;
+    border-radius: 50%;
+    border: 5px solid rgba(146, 10, 94, 0.815);
+}
+#camera{
+    height:8%;
+    max-width:8%;
+    position: relative;
+    bottom:50%;
+    right: 80px;
+    border-radius: 50%;
+    border: 5px solid rgba(146, 10, 94, 0.815);
 }
