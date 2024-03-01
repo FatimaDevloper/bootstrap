@@ -1,0 +1,32 @@
+.btn{
+    color: white;
+    background-color: rgba(0, 0, 255, 0.699);
+    text-decoration: none;
+    padding: 5px;
+}
+.card-title{
+    font-size: larger;
+
+}
+.card1{
+    position: absolute;
+    margin-top: 15px;
+   
+    
+}
+.card2{
+    position:absolute;
+    margin-left: 35%;
+    /* bottom: 390px; */
+    margin-top: 15px;
+    
+    
+}
+.card3{
+    position: absolute;
+    margin-left: 70%;
+    /* bottom: 780px; */
+    margin-top: 20px;
+   
+    
+}
