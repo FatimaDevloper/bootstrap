@@ -1,0 +1,80 @@
+#box{
+    height: 500px;
+    max-width: 1100px;
+    background-image: linear-gradient( to left, rgba(255, 30, 0, 0.897), rgb(255, 153, 0));
+    margin: auto;
+    margin-top: 140px;
+}
+#box1{
+    height: 400px;
+    max-width: 750px;
+   position: relative;
+    top: 48px;
+    left:22%;
+    background-color:white;
+    border-radius: 6px;
+}
+#box3{
+    height: 250px;
+    max-width: 250px;
+    background-image: linear-gradient( to top, rgba(255, 0, 0, 0.849), rgb(250, 121, 0)) ;
+    border-radius: 25px;
+    position: relative;
+    bottom: 180px;
+    right: 70px;
+}
+#btn{
+    border: none;
+    border-radius: 12px;
+    background-image: linear-gradient( to right,  rgba(255, 0, 0, 0.747), rgb(250, 121, 0));
+    padding: 15px;
+    color: white;
+    position: relative;
+    left: 200px;
+    top: 70px;
+}
+h2{
+    color: dimgrey;
+    position: relative;
+    left: 200px;
+    top: 60px;
+
+}
+h1{
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+h3{
+    position: relative;
+    left: 200px;
+    color: dimgrey;
+    top: 50px;
+}
+#box2{
+    height: 50px;
+    max-width: 10px;
+    border-radius: 5px;
+    background-image:linear-gradient( to right,  rgba(255, 0, 0, 0.747), rgb(250, 121, 0));
+    position: relative;
+    bottom:330px;
+    left: 97%;
+}
+#b{
+    height: 10px;
+    max-width: 10px;
+    border-radius:10px ;
+    position: relative;
+    bottom:340px;
+    left: 97%;
+    background-color: grey;
+}
+#d{
+    height: 10px;
+    max-width: 10px;
+    border-radius:10px ;
+    position: relative;
+    bottom:455px;
+    left: 97%;
+    background-color: grey;
+}
